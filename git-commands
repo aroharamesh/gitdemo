@@ -8,5 +8,8 @@ Linking and pushing to cloud repository
 git remote add origin git@github.com:aroharamesh/gitdemo.git
 git push -u origin master
 
+Fetch the cloud repository
+git clone https://github.com/aroharamesh/gitdemo.git
+
 For windows users:
 Download - Gitbash - "right click on any folder which will give you gitbash here"
