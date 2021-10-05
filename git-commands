@@ -1,0 +1,5 @@
+git init - initialise the repository
+git status - check the status of the repository
+git add <file/folder> - add files/folders to track
+git commit -m "added the files" - "m" option to provide message for this permanent track
+git log - log of all the activities 
