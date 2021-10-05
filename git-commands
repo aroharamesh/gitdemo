@@ -4,6 +4,7 @@ git add <file/folder> - add files/folders to track
 git commit -m "added the files" - "m" option to provide message for this permanent track
 git log - log of all the activities 
 
+Linking and pushing to cloud repository
 git remote add origin git@github.com:aroharamesh/gitdemo.git
 git push -u origin master
 
